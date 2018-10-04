@@ -1,0 +1,12 @@
+.crud-table{
+  width: 500px;
+  border: 1px;
+}
+
+.crud-row{
+  display: flex;
+}
+
+.crud-row > div{
+  flex: 1;
+}
